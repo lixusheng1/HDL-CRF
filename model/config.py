@@ -87,7 +87,6 @@ class Config():
     use_crf = True
     use_char_lstm = False
     use_char_cnn=True
-    use_attention=False
-
+   
     filter_size=[2,3]
     filter_deep=30

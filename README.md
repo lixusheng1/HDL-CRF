@@ -1,5 +1,5 @@
 # HDL-CRF
-This is the code of the paper <<A Hybrid Deep Learning Framework for Bacterial Named Entity Recognition>>
+This is the code of the paper 《A Hybrid Deep Learning Framework for Bacterial Named Entity Recognition》
 
 This is  a model for bacterial name entity recognition
 

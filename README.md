@@ -8,6 +8,8 @@ you can train your own model through the train.py or use pre-trained model to pr
 the parameter file in model/config.py,you can adjust the parameter .
 the model weights of ours in test file
 
+Firstly, you should create a directory data and download or train a word embedding ; then put the word embedding in data direcctory and  revise the path of word embedding file in config.py .
+
 1.Train your own model
   1) python build_data.py
   2) python train.py

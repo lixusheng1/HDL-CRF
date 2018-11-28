@@ -1,3 +1,0 @@
-I-bacteria
-O
-B-bacteria

@@ -1,4 +1,7 @@
 # HDL-CRF
+
+We update our dataset in recently,this is BNER-2.0
+
 This is the code of the paper 《A Hybrid Deep Learning Framework for Bacterial Named Entity Recognition》
 
 This is  a model for bacterial name entity recognition

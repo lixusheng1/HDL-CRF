@@ -1,6 +1,6 @@
 # HDL-CRF
 
-We update our dataset in recently,this is BNER-2.0
+We update our dataset in recently,this is BNER-2.0   2019-6
 
 This is the code of the paper 《A Hybrid Deep Learning Framework for Bacterial Named Entity Recognition》
 

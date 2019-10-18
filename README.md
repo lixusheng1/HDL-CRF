@@ -6,6 +6,10 @@ This is the code of the paper 《A Hybrid Deep Learning Framework for Bacterial 
 
 This is  a model for bacterial name entity recognition
 
+you should get a pre-trained  word embedding  in data/ .
+such as word2vec:http://bio.nlplab.org/#word-vector-tools
+
+
 you can train your own model through the train.py or use pre-trained model to predict 
 
 the parameter file in model/config.py,you can adjust the parameter .

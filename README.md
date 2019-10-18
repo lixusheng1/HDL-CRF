@@ -24,6 +24,7 @@ Firstly, you should create a directory data and download or train a word embeddi
   3) python evaluate.py
  
 2. use pre-trained model
+
 if you do not have the word2vec.6b.300d.npz, you should run python build_data.py to generate this file.
  1) python predict.py
  
